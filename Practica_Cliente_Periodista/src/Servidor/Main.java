@@ -23,7 +23,7 @@ public class Main {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 
-		//definimos objeto
+		//definimos el objeto
 		
 		Servidor serv = new Servidor();
 		System.out.println("Iniciando servidor.......");
